@@ -28,7 +28,7 @@ Skills
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 <a href="https://pytorch-lightning.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-  <img src="https://pbs.twimg.com/profile_images/1557849398654164994/yJq9r4ik_400x400.png" alt="pytorch-lightning" width="40" height="40"/>
+  <img src="https://miro.medium.com/max/604/1*uSM9QqCl2DJtejQSnwkCnw.png" alt="pytorch-lightning" width="40" height="40"/>
 </a>
 
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
