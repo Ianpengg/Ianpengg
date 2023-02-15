@@ -11,7 +11,7 @@ About me
 - 👨‍🎓 I'm a graduate student at **National Yang Ming Chiao Tung University**.
 - 🖥 I’m currently learning about Autonomous Vehicle and Deep Learning 
 - 🎸 I like singing in my free time !
-- ⚙️  Start coding in my third year in college, although it's a little bit late, but I love the process of getting new knowledges. 
+- ⚙️  Although I started coding in my third year of college, which may be considered a little late, I thoroughly enjoy the process of acquiring new knowledge. 
 
 Skills 
 ---
