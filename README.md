@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+  <img src="https://user-images.githubusercontent.com/88025855/218952858-4c907214-e309-43c0-b3c3-7fd4b5268a22.png" height="350px" width="500px"/>
 </p>
 
 ### Hi👋 I'm Chen-Yi.  
