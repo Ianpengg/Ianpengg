@@ -30,9 +30,13 @@ Skills
 <a href="https://pytorch-lightning.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
   <img src="https://miro.medium.com/max/604/1*uSM9QqCl2DJtejQSnwkCnw.png" alt="pytorch-lightning" width="40" height="40"/>
 </a>
+ <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/88025855/218957548-ecbe6cf2-e760-49b8-9201-bb4ed2899b87.png" alt="pytorch" width="40" height="40"/>
+ 
 
+  </a>
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
-<img src="https://www.pilz.com/imagecache/mam/pilz/images/import/01_Products_and_Solutions/A0900_robotics/fittosize__752_0_53ab91fb2e1755765c20d5d1df8d5f9d_l_ros_logo_3c_2018_08_1000x562-mobile-1596543825.jpg" alt="ros" width="80" height="40"/>
+<img src="https://global.discourse-cdn.com/business7/uploads/ros/optimized/2X/5/5034b398c8a7c424fbac9da50dbbef7824740d41_2_388x499.png" alt="ros" width="40" height="40"/>
 </a>
 
 </p>
